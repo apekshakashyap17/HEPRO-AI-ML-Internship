@@ -1,0 +1,111 @@
+student_id,Category,SRI,primary_need,assigned_mentor,suggested_intervention,cluster_intervention,alert_status
+S108,Red,34.13,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S104,Red,34.34499999999999,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S101,Red,35.635,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S109,Red,35.80499999999999,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S105,Red,35.845,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S107,Red,37.125,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S102,Red,37.93,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S110,Red,39.065000000000005,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S106,Red,39.465,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S103,Red,40.285,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S014,Red,48.31,Wellness,Ms. Singh,Emotional Support,Daily Intensive Support & Faculty Review,Immediate Action Required
+S067,Red,49.105,Wellness,Ms. Singh,Emotional Support,Daily Intensive Support & Faculty Review,Immediate Action Required
+S042,Red,49.95,Career,Dr. Kapoor,Job Readiness,Daily Intensive Support & Faculty Review,Immediate Action Required
+S015,Yellow,50.7,Wellness,Ms. Singh,Emotional Support,Bi-weekly Mentorship Sessions,No Alert
+S074,Yellow,51.865,Wellness,Ms. Singh,Emotional Support,Bi-weekly Mentorship Sessions,No Alert
+S071,Yellow,51.88,Wellness,Ms. Singh,Emotional Support,Bi-weekly Mentorship Sessions,No Alert
+S061,Yellow,52.52,Career,Dr. Kapoor,Job Readiness,Bi-weekly Mentorship Sessions,No Alert
+S034,Yellow,53.4,Wellness,Ms. Singh,Emotional Support,Bi-weekly Mentorship Sessions,No Alert
+S047,Yellow,53.525,Wellness,Ms. Singh,Emotional Support,Bi-weekly Mentorship Sessions,No Alert
+S079,Yellow,54.760000000000005,Wellness,Ms. Singh,Emotional Support,Bi-weekly Mentorship Sessions,No Alert
+S054,Yellow,55.365,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S023,Yellow,55.61,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S035,Yellow,55.65,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S051,Yellow,56.2,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S041,Yellow,56.49,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S053,Yellow,56.59,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S029,Yellow,56.665,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S001,Yellow,56.835,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S004,Yellow,57.255,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S069,Yellow,57.395,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S007,Yellow,57.400000000000006,Academic,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S078,Yellow,57.44499999999999,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S030,Yellow,57.55500000000001,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S026,Yellow,57.62,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S072,Yellow,57.95,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S010,Yellow,58.095,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S013,Yellow,58.1,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S045,Yellow,58.335,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S018,Yellow,58.465,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S019,Yellow,59.02,Career,Dr. Nair,Industry Networking,Bi-weekly Mentorship Sessions,No Alert
+S009,Yellow,59.05,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S039,Yellow,59.065000000000005,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S027,Yellow,59.07,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S046,Yellow,59.10999999999999,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S003,Yellow,59.21000000000001,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S036,Yellow,59.275,Wellness,Ms. Mehta,Stress Management,Bi-weekly Mentorship Sessions,No Alert
+S065,Yellow,59.39999999999999,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S068,Yellow,59.43,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S063,Yellow,59.510000000000005,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S056,Yellow,59.56,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S011,Yellow,59.605,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S031,Yellow,59.78,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S055,Yellow,59.985,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S052,Yellow,60.105,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S058,Yellow,60.255,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S059,Yellow,60.295,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S066,Yellow,60.295,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S002,Yellow,60.37500000000001,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S016,Yellow,60.38,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S005,Yellow,60.85,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S044,Yellow,61.17,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S038,Yellow,61.175,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S037,Yellow,61.525,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S032,Yellow,61.675,Wellness,Mr. Joshi,Mental Health Support,Bi-weekly Mentorship Sessions,No Alert
+S080,Yellow,61.72,Career,Mr. Iyer,Career Guidance,Bi-weekly Mentorship Sessions,No Alert
+S017,Yellow,61.755,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S060,Yellow,62.18000000000001,Wellness,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S021,Yellow,62.43,Wellness,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S043,Yellow,63.005,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S028,Yellow,63.135000000000005,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S070,Yellow,63.260000000000005,Wellness,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S073,Yellow,63.31,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S050,Yellow,63.57,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S033,Yellow,63.585,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S057,Yellow,64.11999999999999,Wellness,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S075,Yellow,64.315,Career,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S025,Yellow,64.325,Wellness,Prof. Sharma,Research Mentorship,Bi-weekly Mentorship Sessions,No Alert
+S020,Blue,65.57000000000001,Career,Prof. Sharma,Research Mentorship,Monthly Peer Support Group,No Alert
+S062,Blue,65.58500000000001,Career,Prof. Sharma,Research Mentorship,Monthly Peer Support Group,No Alert
+S076,Blue,66.10499999999999,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S048,Blue,66.28,Wellness,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S049,Blue,66.425,Wellness,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S077,Blue,67.335,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S024,Blue,67.58500000000001,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S022,Blue,67.64,Academic,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S008,Blue,68.1,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S098,Blue,68.25,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S099,Blue,68.33500000000001,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S093,Blue,68.41499999999999,Career,Ms. Reddy,Subject Tutoring,Monthly Peer Support Group,No Alert
+S094,Blue,68.53500000000001,Wellness,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S064,Blue,68.65,Wellness,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S092,Blue,69.0,Career,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S040,Blue,69.13,Career,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S096,Blue,70.045,Career,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S091,Blue,70.085,Wellness,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S100,Blue,70.155,Career,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S006,Blue,70.84,Career,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S095,Blue,71.095,Wellness,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S097,Blue,71.265,Career,Dr. Rao,Study Planning,Monthly Peer Support Group,No Alert
+S012,Blue,71.645,Wellness,Dr. Khan,Exam Strategy,Monthly Peer Support Group,No Alert
+S087,Green,82.28500000000001,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S083,Green,82.95,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S088,Green,82.98,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S089,Green,83.08,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S090,Green,83.55499999999999,Wellness,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S081,Green,83.69,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S082,Green,83.715,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S086,Green,84.56999999999998,Wellness,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S084,Green,84.875,Career,Dr. Khan,Exam Strategy,Self-Guided Excellence Workshop,No Alert
+S085,Green,85.11999999999999,Career,Waitlist,Pending,Self-Guided Excellence Workshop,No Alert

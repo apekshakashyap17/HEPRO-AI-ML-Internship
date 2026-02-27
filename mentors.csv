@@ -1,0 +1,11 @@
+mentor_id,mentor_name,expertise_area,max_capacity,current_load,availability_hours,intervention_type
+M01,Dr. Rao,Academic,10,0,8,Study Planning
+M02,Ms. Mehta,Wellness,10,0,10,Stress Management
+M03,Mr. Iyer,Career,12,0,6,Career Guidance
+M04,Dr. Khan,Academic,10,0,4,Exam Strategy
+M05,Ms. Singh,Wellness,8,0,12,Emotional Support
+M06,Prof. Sharma,Academic,15,0,15,Research Mentorship
+M07,Dr. Kapoor,Career,12,0,8,Job Readiness
+M08,Mr. Joshi,Wellness,10,0,5,Mental Health Support
+M09,Ms. Reddy,Academic,10,0,10,Subject Tutoring
+M10,Dr. Nair,Career,12,0,7,Industry Networking
